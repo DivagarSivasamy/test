@@ -1,0 +1,1016 @@
+{
+  "searchResponse": {
+    "totalResults": 110,
+    "totalhitsRelation": "equal",
+    "inputSearchQuery": null,
+    "searchResults": [
+      {
+        "body": {
+          "lineage": [
+            "urn:asset:62:e31fe0f6-c651-4e8e-a54c-20500e063379"
+          ],
+          "phase": "Phase 2 Clinical",
+          "creationdate": "2021-06-27T10:15:39",
+          "indications": [
+            "Non-small Cell Lung Cancer"
+          ],
+          "relationshipsnames": [
+            {
+              "name": "trialSiteCountry",
+              "value": "urn:loc:10972"
+            },
+            {
+              "name": "trialSiteState",
+              "value": "urn:loc:1007101"
+            },
+            {
+              "name": "trialSiteCity",
+              "value": "urn:loc:1010992"
+            },
+            {
+              "name": "trialSitePostalCode",
+              "value": "urn:loc:1773498"
+            },
+            {
+              "name": "trialSiteState",
+              "value": "urn:loc:1007101"
+            },
+            {
+              "name": "trialSiteCity",
+              "value": "urn:loc:1010992"
+            },
+            {
+              "name": "trialSitePostalCode",
+              "value": "urn:loc:1773498"
+            },
+            {
+              "name": "trialSiteCountry",
+              "value": "urn:loc:10972"
+            },
+            {
+              "name": "trialSiteState",
+              "value": "urn:loc:1007101"
+            },
+            {
+              "name": "trialSiteCity",
+              "value": "urn:loc:1010992"
+            },
+            {
+              "name": "trialSitePostalCode",
+              "value": "urn:loc:1773498"
+            },
+            {
+              "name": "trialSiteCountry",
+              "value": "urn:loc:10972"
+            },
+            {
+              "name": "trialOrganization",
+              "value": "urn:org:400913"
+            }
+          ],
+          "itempguid": "urn:clinicalTrials:402372",
+          "title": "Sites Per After Concurrent Chemotherapy and Proton Reirradiation for Thoracic Recurrences of Non-Small Cell Lung Cancer",
+          "hashealthyvolunteers": "false",
+          "remittrials": "false",
+          "drugnames": [
+            "Pembrolizumab",
+            "Keytruda",
+            "MK-3475",
+            "tumor necrosis factor",
+            "ipilimumab"
+          ],
+          "interventions": [
+            {
+              "name": "Pembrolizumab",
+              "value": null
+            }
+          ],
+          "updatedate": "2021-06-27T10:16:25.783Z",
+          "organizations": [
+            {
+              "name": "Abramson Cancer Center of the University of Pennsylvania",
+              "value": "Trial Sponsor"
+            }
+          ],
+          "suggestionwords": [
+            "sites",
+            "per",
+            "concurrent",
+            "chemotherapy",
+            "proton",
+            "reirradiation",
+            "thoracic",
+            "recurrences",
+            "non",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+          ],
+          "studydesigntype": "Interventional",
+          "enrollmentcount": "41",
+          "status": "Recruiting"
+        },
+        "workbenchUrl": "https://singularity-portal-dev.dev.singularity.clarivate.com/embedui/clinicaltrials/index.html#/clinicaltrials/curation?isReadOnly=true&pguid=urn:clinicalTrials:402372",
+        "noSearchResultMessage": null,
+        "score": 0,
+        "highlight": {},
+        "summary": [
+          {
+            "master": "urn:asset:31",
+            "count": 1,
+            "pguids": [
+              "urn:org:400913"
+            ]
+          }
+        ]
+      },
+      {
+        "body": {
+          "lineage": [
+            "urn:asset:62:174b7488-d97e-49b2-9591-0f6a62c37308"
+          ],
+          "phase": "Phase 2 Clinical",
+          "creationdate": "2021-06-27T09:23:39",
+          "indications": [
+            "Non-small Cell Lung Cancer"
+          ],
+          "relationshipsnames": [
+            {
+              "name": "trialSiteCountry",
+              "value": "urn:loc:10972"
+            },
+            {
+              "name": "trialSitePostalCode",
+              "value": "urn:loc:1773498"
+            },
+            {
+              "name": "trialSiteCity",
+              "value": "urn:loc:1010992"
+            },
+            {
+              "name": "trialSiteState",
+              "value": "urn:loc:1007101"
+            },
+            {
+              "name": "trialSiteState",
+              "value": "urn:loc:1007101"
+            },
+            {
+              "name": "trialSiteCity",
+              "value": "urn:loc:1010992"
+            },
+            {
+              "name": "trialSitePostalCode",
+              "value": "urn:loc:1773498"
+            },
+            {
+              "name": "trialSiteCountry",
+              "value": "urn:loc:10972"
+            }
+          ],
+          "itempguid": "urn:clinicalTrials:402371",
+          "title": "Sites After Concurrent Chemotherapy and Proton Reirradiation for Thoracic Recurrences of Non-Small Cell Lung Cancer",
+          "hashealthyvolunteers": "false",
+          "drugnames": [
+            "Pembrolizumab",
+            "Keytruda",
+            "MK-3475",
+            "tumor necrosis factor",
+            "ipilimumab"
+          ],
+          "interventions": [
+            {
+              "name": "Pembrolizumab",
+              "value": null
+            }
+          ],
+          "updatedate": "2021-06-27T09:24:03.549Z",
+          "organizations": [
+            {
+              "name": "Abramson Cancer Center of the University of Pennsylvania",
+              "value": "Trial Sponsor"
+            }
+          ],
+          "suggestionwords": [
+            "sites",
+            "concurrent",
+            "chemotherapy",
+            "proton",
+            "reirradiation",
+            "thoracic",
+            "recurrences",
+            "non",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+          ],
+          "studydesigntype": "Interventional",
+          "enrollmentcount": "41",
+          "status": "Recruiting"
+        },
+        "workbenchUrl": "https://singularity-portal-dev.dev.singularity.clarivate.com/embedui/clinicaltrials/index.html#/clinicaltrials/curation?isReadOnly=true&pguid=urn:clinicalTrials:402371",
+        "noSearchResultMessage": null,
+        "score": 0,
+        "highlight": {},
+        "summary": []
+      },
+      {
+        "body": {
+          "phase": "Phase Not Applicable",
+          "registrytype": [
+            "NLM ClinicalTrials.gov",
+            "Other"
+          ],
+          "creationdate": "2021-05-21T16:40:57",
+          "indications": [
+            "Insulin dependent diabetes"
+          ],
+          "relationshipsnames": [
+            {
+              "name": "trialIndication",
+              "value": "urn:indications:836"
+            },
+            {
+              "name": "trialOrganization",
+              "value": "urn:org:612820"
+            },
+            {
+              "name": "trialOrganization",
+              "value": "urn:org:626508"
+            }
+          ],
+          "itempguid": "urn:clinicalTrials:203958",
+          "title": "Evaluation of the Accuracy and Precision of Flash Glucose Monitoring Sensors in Different Sites",
+          "hashealthyvolunteers": "false",
+          "remittrials": "false",
+          "jpharmid": [
+            "504219"
+          ],
+          "interventions": [
+            {
+              "name": "Dgital health intervention Abbott FreeStyle Libre Flash Glucose Monitoring sensors",
+              "value": "Device"
+            }
+          ],
+          "updatedate": "2021-06-24T23:46:50.038Z",
+          "organizations": [
+            {
+              "name": "Universitaire Ziekenhuizen Leuven",
+              "value": "Trial Sponsor"
+            },
+            {
+              "name": "Onze-Lieve-Vrouwziekenhuis Aalst Hospital",
+              "value": "Trial Collaborator"
+            }
+          ],
+          "suggestionwords": [
+            "evaluation",
+            "accuracy",
+            "precision",
+            "flash",
+            "glucose",
+            "monitoring",
+            "sensors",
+            "different",
+            "sites"
+          ],
+          "studydesigntype": "Interventional",
+          "trialidentifiers": [
+            "NCT03154060",
+            "OOS-60146"
+          ],
+          "enrollmentcount": "23",
+          "status": "Completed"
+        },
+        "workbenchUrl": "https://singularity-portal-dev.dev.singularity.clarivate.com/embedui/clinicaltrials/index.html#/clinicaltrials/curation?isReadOnly=true&pguid=urn:clinicalTrials:203958",
+        "noSearchResultMessage": null,
+        "score": 0,
+        "highlight": {},
+        "summary": [
+          {
+            "master": "urn:asset:31",
+            "count": 2,
+            "pguids": [
+              "urn:org:612820",
+              "urn:org:626508"
+            ]
+          }
+        ]
+      },
+      {
+        "body": {
+          "phase": "Phase Not Applicable",
+          "registrytype": [
+            "NLM ClinicalTrials.gov",
+            "Other"
+          ],
+          "creationdate": "2021-05-16T17:26:20",
+          "indications": [
+            "Bleeding"
+          ],
+          "relationshipsnames": [
+            {
+              "name": "trialIndication",
+              "value": "urn:indications:552"
+            },
+            {
+              "name": "trialOrganization",
+              "value": "urn:org:629560"
+            }
+          ],
+          "itempguid": "urn:clinicalTrials:174307",
+          "title": "A Novel Device for Surveillance of Vascular Access Sites for Bleeding",
+          "hashealthyvolunteers": "false",
+          "remittrials": "false",
+          "jpharmid": [
+            "502731"
+          ],
+          "interventions": [
+            {
+              "name": "Digital Health intervention stand-alone disc-shaped device",
+              "value": "Device"
+            },
+            {
+              "name": "Digital Health intervention Hemoglobin sensor",
+              "value": "Device"
+            },
+            {
+              "name": "Application of device which monitors for bleeding - Blood Warning Technology with Continuo",
+              "value": "Procedure"
+            }
+          ],
+          "updatedate": "2021-06-24T13:02:39.273Z",
+          "organizations": [
+            {
+              "name": "Changi General Hospital Singapore",
+              "value": "Trial Sponsor"
+            }
+          ],
+          "suggestionwords": [
+            "novel",
+            "device",
+            "surveillance",
+            "vascular",
+            "access",
+            "sites",
+            "bleeding"
+          ],
+          "studydesigntype": "Observational",
+          "trialidentifiers": [
+            "NCT04285775",
+            "NHIC-I2D-1608124"
+          ],
+          "enrollmentcount": "250",
+          "status": "Completed"
+        },
+        "workbenchUrl": "https://singularity-portal-dev.dev.singularity.clarivate.com/embedui/clinicaltrials/index.html#/clinicaltrials/curation?isReadOnly=true&pguid=urn:clinicalTrials:174307",
+        "noSearchResultMessage": null,
+        "score": 0,
+        "highlight": {},
+        "summary": [
+          {
+            "master": "urn:asset:31",
+            "count": 1,
+            "pguids": [
+              "urn:org:629560"
+            ]
+          }
+        ]
+      },
+      {
+        "body": {
+          "phase": "Phase Not Applicable",
+          "registrytype": [
+            "NLM ClinicalTrials.gov",
+            "Other"
+          ],
+          "creationdate": "2021-05-14T07:22:01",
+          "indications": [
+            "Wound healing"
+          ],
+          "relationshipsnames": [
+            {
+              "name": "trialIndication",
+              "value": "urn:indications:347"
+            },
+            {
+              "name": "trialOrganization",
+              "value": "urn:org:525822"
+            }
+          ],
+          "itempguid": "urn:clinicalTrials:162438",
+          "title": "Confirm Performance and Safety of Exufiber When Used as Intended on Donor Sites",
+          "hashealthyvolunteers": "false",
+          "remittrials": "false",
+          "jpharmid": [
+            "502178"
+          ],
+          "interventions": [
+            {
+              "name": "Exufiber",
+              "value": "Device"
+            }
+          ],
+          "updatedate": "2021-06-24T06:10:03.648Z",
+          "organizations": [
+            {
+              "name": "Molnlycke Health Care AB",
+              "value": "Trial Sponsor"
+            }
+          ],
+          "suggestionwords": [
+            "confirm",
+            "performance",
+            "safety",
+            "exufiber",
+            "when",
+            "used",
+            "intended",
+            "donor",
+            "sites"
+          ],
+          "studydesigntype": "Interventional",
+          "trialidentifiers": [
+            "NCT04884568",
+            "PD-598950"
+          ],
+          "enrollmentcount": "34",
+          "status": "Not yet recruiting"
+        },
+        "workbenchUrl": "https://singularity-portal-dev.dev.singularity.clarivate.com/embedui/clinicaltrials/index.html#/clinicaltrials/curation?isReadOnly=true&pguid=urn:clinicalTrials:162438",
+        "noSearchResultMessage": null,
+        "score": 0,
+        "highlight": {},
+        "summary": [
+          {
+            "master": "urn:asset:31",
+            "count": 1,
+            "pguids": [
+              "urn:org:525822"
+            ]
+          }
+        ]
+      },
+      {
+        "body": {
+          "phase": "Phase Not Applicable",
+          "registrytype": [
+            "NLM ClinicalTrials.gov",
+            "Other"
+          ],
+          "creationdate": "2021-03-09T03:38:50",
+          "relationshipsnames": [
+            {
+              "name": "trialOrganization",
+              "value": "urn:org:488532"
+            }
+          ],
+          "itempguid": "urn:clinicalTrials:248117",
+          "title": "Assessment of Validity of Depth by PocketCPR as Sites of Smartphone on Arm",
+          "hashealthyvolunteers": "true",
+          "remittrials": "false",
+          "jpharmid": [
+            "485091"
+          ],
+          "interventions": [
+            {
+              "name": "PocketCPR app",
+              "value": "Device"
+            },
+            {
+              "name": "Skill Reporter manikin app",
+              "value": "Device"
+            }
+          ],
+          "updatedate": "2021-06-25T21:29:43.897Z",
+          "organizations": [
+            {
+              "name": "Hanyang University",
+              "value": "Trial Sponsor"
+            }
+          ],
+          "suggestionwords": [
+            "assessment",
+            "validity",
+            "depth",
+            "pocketcpr",
+            "sites",
+            "smartphone",
+            "arm"
+          ],
+          "studydesigntype": "Observational",
+          "trialidentifiers": [
+            "NCT02158715",
+            "POCKETCPR"
+          ],
+          "enrollmentcount": "45",
+          "status": "Completed"
+        },
+        "workbenchUrl": "https://singularity-portal-dev.dev.singularity.clarivate.com/embedui/clinicaltrials/index.html#/clinicaltrials/curation?isReadOnly=true&pguid=urn:clinicalTrials:248117",
+        "noSearchResultMessage": null,
+        "score": 0,
+        "highlight": {},
+        "summary": [
+          {
+            "master": "urn:asset:31",
+            "count": 1,
+            "pguids": [
+              "urn:org:488532"
+            ]
+          }
+        ]
+      },
+      {
+        "body": {
+          "phase": "Phase Not Applicable",
+          "registrytype": [
+            "NLM ClinicalTrials.gov",
+            "Other"
+          ],
+          "creationdate": "2021-03-08T16:40:38",
+          "indications": [
+            "Endometriosis"
+          ],
+          "biomarkers": [
+            {
+              "name": "CA-125 antigen",
+              "value": "Therapeutic effect marker"
+            }
+          ],
+          "relationshipsnames": [
+            {
+              "name": "trialBiomarker",
+              "value": "urn:jpharm:biomarkers:71"
+            },
+            {
+              "name": "trialIndication",
+              "value": "urn:indications:113"
+            },
+            {
+              "name": "trialOrganization",
+              "value": "urn:org:487513"
+            }
+          ],
+          "itempguid": "urn:clinicalTrials:266188",
+          "title": "Cohort Study of Endometriosis at Different Sites",
+          "hashealthyvolunteers": "true",
+          "remittrials": "false",
+          "jpharmid": [
+            "485897"
+          ],
+          "interventions": [
+            {
+              "name": "surgical endometrioma excision",
+              "value": "Procedure"
+            }
+          ],
+          "updatedate": "2021-06-26T06:27:12.630Z",
+          "organizations": [
+            {
+              "name": "Peking Union Medical College Hospital",
+              "value": "Trial Sponsor"
+            }
+          ],
+          "suggestionwords": [
+            "cohort",
+            "study",
+            "endometriosis",
+            "different",
+            "sites"
+          ],
+          "studydesigntype": "Observational",
+          "trialidentifiers": [
+            "NCT04783623",
+            "S-K1522"
+          ],
+          "enrollmentcount": "146",
+          "status": "Completed"
+        },
+        "workbenchUrl": "https://singularity-portal-dev.dev.singularity.clarivate.com/embedui/clinicaltrials/index.html#/clinicaltrials/curation?isReadOnly=true&pguid=urn:clinicalTrials:266188",
+        "noSearchResultMessage": null,
+        "score": 0,
+        "highlight": {},
+        "summary": [
+          {
+            "master": "urn:asset:31",
+            "count": 1,
+            "pguids": [
+              "urn:org:487513"
+            ]
+          }
+        ]
+      },
+      {
+        "body": {
+          "phase": "Phase 2 Clinical",
+          "registrytype": [
+            "NLM ClinicalTrials.gov",
+            "Other"
+          ],
+          "creationdate": "2020-10-16T08:09:12",
+          "indications": [
+            "Endometrioid carcinoma"
+          ],
+          "relationshipsnames": [
+            {
+              "name": "trialIndication",
+              "value": "urn:indications:1705"
+            },
+            {
+              "name": "trialOrganization",
+              "value": "urn:org:493864"
+            }
+          ],
+          "itempguid": "urn:clinicalTrials:137409",
+          "title": "A Prospective Study Comparing Three Injection Sites to Detect Sentinel Lymph Nodes in Endometrial Cancer",
+          "hashealthyvolunteers": "false",
+          "remittrials": "false",
+          "jpharmid": [
+            "459580"
+          ],
+          "interventions": [
+            {
+              "name": "indocyanine green",
+              "value": "Drug"
+            },
+            {
+              "name": "Patent blue",
+              "value": "Drug"
+            },
+            {
+              "name": "99mTc-Nanocoll",
+              "value": "Drug"
+            },
+            {
+              "name": "Lymphoscintigraphy",
+              "value": "Procedure"
+            },
+            {
+              "name": "Total hysterectomy",
+              "value": "Procedure"
+            },
+            {
+              "name": "Oophorectomy",
+              "value": "Procedure"
+            },
+            {
+              "name": "Salpingectomy",
+              "value": "Procedure"
+            }
+          ],
+          "updatedate": "2021-06-23T16:48:36.470Z",
+          "organizations": [
+            {
+              "name": "Centre Hospitalier Universitaire Vaudois",
+              "value": "Trial Sponsor"
+            }
+          ],
+          "suggestionwords": [
+            "prospective",
+            "study",
+            "comparing",
+            "three",
+            "injection",
+            "sites",
+            "detect",
+            "sentinel",
+            "lymph",
+            "nodes",
+            "endometrial",
+            "cancer"
+          ],
+          "studydesigntype": "Interventional",
+          "trialidentifiers": [
+            "NCT04577950",
+            "SENNAN"
+          ],
+          "enrollmentcount": "120",
+          "status": "Recruiting"
+        },
+        "workbenchUrl": "https://singularity-portal-dev.dev.singularity.clarivate.com/embedui/clinicaltrials/index.html#/clinicaltrials/curation?isReadOnly=true&pguid=urn:clinicalTrials:137409",
+        "noSearchResultMessage": null,
+        "score": 0,
+        "highlight": {},
+        "summary": [
+          {
+            "master": "urn:asset:31",
+            "count": 1,
+            "pguids": [
+              "urn:org:493864"
+            ]
+          }
+        ]
+      },
+      {
+        "body": {
+          "phase": "Phase Not Applicable",
+          "registrytype": [
+            "NLM ClinicalTrials.gov",
+            "Other"
+          ],
+          "creationdate": "2020-07-30T07:36:26",
+          "indications": [
+            "Wound healing"
+          ],
+          "relationshipsnames": [
+            {
+              "name": "trialIndication",
+              "value": "urn:indications:347"
+            },
+            {
+              "name": "trialOrganization",
+              "value": "urn:org:624228"
+            }
+          ],
+          "itempguid": "urn:clinicalTrials:296439",
+          "title": "Scarring At Donor Sites After Split-thickness Skin Graft",
+          "hashealthyvolunteers": "false",
+          "remittrials": "false",
+          "jpharmid": [
+            "445793"
+          ],
+          "interventions": [
+            {
+              "name": "Allevyn",
+              "value": "Device"
+            },
+            {
+              "name": "Aquacel",
+              "value": "Device"
+            },
+            {
+              "name": "Tegaderm",
+              "value": "Device"
+            },
+            {
+              "name": "Mediskin",
+              "value": "Device"
+            },
+            {
+              "name": "Cutometer dual MPA 580",
+              "value": "Device"
+            }
+          ],
+          "updatedate": "2021-06-26T21:07:51.019Z",
+          "organizations": [
+            {
+              "name": "University Hospital, Linkoeping",
+              "value": "Trial Sponsor"
+            }
+          ],
+          "suggestionwords": [
+            "scarring",
+            "donor",
+            "sites",
+            "split",
+            "thickness",
+            "skin",
+            "graft"
+          ],
+          "studydesigntype": "Observational",
+          "trialidentifiers": [
+            "NCT04490213",
+            "2018/212-31"
+          ],
+          "enrollmentcount": "17",
+          "status": "Completed"
+        },
+        "workbenchUrl": "https://singularity-portal-dev.dev.singularity.clarivate.com/embedui/clinicaltrials/index.html#/clinicaltrials/curation?isReadOnly=true&pguid=urn:clinicalTrials:296439",
+        "noSearchResultMessage": null,
+        "score": 0,
+        "highlight": {},
+        "summary": [
+          {
+            "master": "urn:asset:31",
+            "count": 1,
+            "pguids": [
+              "urn:org:624228"
+            ]
+          }
+        ]
+      },
+      {
+        "body": {
+          "phase": "Phase Not Applicable",
+          "registrytype": [
+            "NLM ClinicalTrials.gov",
+            "Other"
+          ],
+          "creationdate": "2020-07-20T14:08:07",
+          "indications": [
+            "Metastatic non small cell lung cancer"
+          ],
+          "biomarkers": [
+            {
+              "name": "Circulating tumor DNA",
+              "value": "Disease marker"
+            }
+          ],
+          "relationshipsnames": [
+            {
+              "name": "trialBiomarker",
+              "value": "urn:jpharm:biomarkers:46244"
+            },
+            {
+              "name": "trialIndication",
+              "value": "urn:indications:3665"
+            },
+            {
+              "name": "trialOrganization",
+              "value": "urn:org:605506"
+            }
+          ],
+          "itempguid": "urn:clinicalTrials:259796",
+          "title": "Liquid Biopsy to Reduce Time to Treatment for Advanced Non-squamous NSCLC Diagnosed at Outside Sites",
+          "hashealthyvolunteers": "false",
+          "remittrials": "false",
+          "jpharmid": [
+            "444124"
+          ],
+          "interventions": [
+            {
+              "name": "Liquid biopsy",
+              "value": "Procedure"
+            },
+            {
+              "name": "liquid biopsy",
+              "value": null
+            }
+          ],
+          "updatedate": "2021-06-26T03:22:44.532Z",
+          "organizations": [
+            {
+              "name": "Case Comprehensive Cancer Center",
+              "value": "Trial Sponsor"
+            }
+          ],
+          "suggestionwords": [
+            "liquid",
+            "biopsy",
+            "reduce",
+            "time",
+            "treatment",
+            "advanced",
+            "non",
+            "squamous",
+            "nsclc",
+            "diagnosed",
+            "outside",
+            "sites"
+          ],
+          "studydesigntype": "Interventional",
+          "trialidentifiers": [
+            "NCT04474613",
+            "CASE1520"
+          ],
+          "enrollmentcount": "100",
+          "status": "Recruiting"
+        },
+        "workbenchUrl": "https://singularity-portal-dev.dev.singularity.clarivate.com/embedui/clinicaltrials/index.html#/clinicaltrials/curation?isReadOnly=true&pguid=urn:clinicalTrials:259796",
+        "noSearchResultMessage": null,
+        "score": 0,
+        "highlight": {},
+        "summary": [
+          {
+            "master": "urn:asset:31",
+            "count": 1,
+            "pguids": [
+              "urn:org:605506"
+            ]
+          }
+        ]
+      }
+    ],
+    "noSearchResults": null,
+    "aggregator": [
+      {
+        "aggbucket_name": "remittrials.raw",
+        "aggbucket_values": [
+          {
+            "key": "false",
+            "count": 97,
+            "checked": false
+          },
+          {
+            "key": "true",
+            "count": 2,
+            "checked": false
+          }
+        ]
+      },
+      {
+        "aggbucket_name": "registrytype.raw",
+        "aggbucket_values": [
+          {
+            "key": "Other",
+            "count": 91,
+            "checked": false
+          },
+          {
+            "key": "NLM ClinicalTrials.gov",
+            "count": 70,
+            "checked": false
+          },
+          {
+            "key": "European Clinical Trials Database (EudraCT)",
+            "count": 15,
+            "checked": false
+          },
+          {
+            "key": "Australian New Zealand Clinical Trials Registry (ANZCTR)",
+            "count": 10,
+            "checked": false
+          },
+          {
+            "key": "International Standard Randomised Controlled Trial Number Register (ISRCTN)",
+            "count": 6,
+            "checked": false
+          },
+          {
+            "key": "WHO ICTRP",
+            "count": 4,
+            "checked": false
+          },
+          {
+            "key": "University Hospital Medical Information Network (UMIN)",
+            "count": 3,
+            "checked": false
+          },
+          {
+            "key": "Center for Drug Evaluation",
+            "count": 1,
+            "checked": false
+          },
+          {
+            "key": "Chinese Clinical Trials Registry (ChiCTR)",
+            "count": 1,
+            "checked": false
+          },
+          {
+            "key": "Clinical Trials Registry India (CTRI)",
+            "count": 1,
+            "checked": false
+          }
+        ]
+      },
+      {
+        "aggbucket_name": "status.raw",
+        "aggbucket_values": [
+          {
+            "key": "Completed",
+            "count": 57,
+            "checked": false
+          },
+          {
+            "key": "Recruiting",
+            "count": 18,
+            "checked": false
+          },
+          {
+            "key": "Status not specified",
+            "count": 12,
+            "checked": false
+          },
+          {
+            "key": "Not yet recruiting",
+            "count": 8,
+            "checked": false
+          },
+          {
+            "key": "No longer recruiting",
+            "count": 5,
+            "checked": false
+          },
+          {
+            "key": "Withdrawn",
+            "count": 4,
+            "checked": false
+          },
+          {
+            "key": "Terminated",
+            "count": 3,
+            "checked": false
+          },
+          {
+            "key": "Available",
+            "count": 1,
+            "checked": false
+          }
+        ]
+      }
+    ],
+    "pagination": [
+      "2020-07-20T14:08:07",
+      "urn:clinicalTrials:259796"
+    ]
+  },
+  "selectedMasters": [
+    {
+      "masterId": "urn:asset:62",
+      "masterTitle": "Clinical Trials"
+    }
+  ],
+  "data": "Retrieve itempguids successful"
+}
